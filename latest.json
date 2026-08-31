@@ -1,11 +1,11 @@
 {
-  "version": "0.1.10",
+  "version": "0.1.11",
   "notes": "",
-  "pub_date": "2026-08-31T09:22:03Z",
+  "pub_date": "2026-08-31T10:49:29Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTOEVVdUhrQzRWRkNYMTYxbFJCQXBnc0lQY2N5ZVlYcHluV2Vwb3dUY2VkWURDbldtN0JkTHg0Szc0VmpDWkIyQTl2ZlNjRzBGWmNGYkE3VnRFcDliT0Ezb1I1ays0bEEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MTY4MTIyCWZpbGU6ZnJhbWVjYXRjaF8wLjEuMTBfeDY0LXNldHVwLmV4ZQoxa1B2WHhPQnRSY2FHbmt3YWdzd3VoaU1rN3BmK1UxMGlWcEd5NFA2RHpNME5CdWF2K1l0d3FpMmwwSTRWNUU0OWt0Wk5qbU1HU1JySkh0c3RTOUhEZz09Cg==",
-      "url": "https://github.com/tcly861204/framecatch/releases/download/v0.1.10/framecatch_0.1.10_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTOEVVdUhrQzRWRlBHbGU5cHRpSE9Ra3JEcVlESVUrRmJ4K1NPVWsrSytaT1N4SGVjS1A1MnY1ajNSVGNUMGtUS2NzMnFRaHl0c1Q1WHcyZjVuNkthdXlFbEhWUUZaa1FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MTczMzY4CWZpbGU6ZnJhbWVjYXRjaF8wLjEuMTFfeDY0LXNldHVwLmV4ZQpBWTNHRHYvcVFSYW56eitRT0pyYlFzbXJuZjRGTjFNRTNUQ2l1T3EzTGM0SFBBUFFaNU1ranJrRExaS3pXeGYxOHRyTjVHUXpXbnBZLy9vY09lK2dCQT09Cg==",
+      "url": "https://github.com/tcly861204/framecatch/releases/download/v0.1.11/framecatch_0.1.11_x64-setup.exe"
     }
   }
 }
