@@ -1,0 +1,11 @@
+{
+  "version": "0.2.1",
+  "notes": "",
+  "pub_date": "2026-10-31T03:45:36Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTOEVVdUhrQzRWRk5qbWhUKzh6U3IwZHIzR0oxb1FadFVBbXl6UEFmQndDTndRVlZOMU1acm43cjYzcm9DM3kwVmZpdEZIeU00b09SUC9Nd2V3YmliRHNvQUY2c1BISWdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDE4MzM1CWZpbGU6ZnJhbWVjYXRjaF8wLjIuMV94NjQtc2V0dXAuZXhlCnVldlRHMzlPZWE5L2IzR3BySStqRWl5Z3BCOXUvNVFHR2p6bEJrQWVTWEYvQmEzaFd6K2tUT1Boc0NoRUtzeXNhSHJ4QitITlI5VFc0VEU2N2NmVEFBPT0K",
+      "url": "https://github.com/tcly861204/framecatch/releases/download/v0.2.1/framecatch_0.2.1_x64-setup.exe"
+    }
+  }
+}
